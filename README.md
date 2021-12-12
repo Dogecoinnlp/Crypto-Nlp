@@ -19,6 +19,6 @@ Reinforcement learning:
 Run BTC_data_merge.ipynb and ETH_data_merge.ipynb to merge the price data and samentic vector data. Merged csv is included in the folder. Then run RL_NLP_BTC.py to run the reinforcement  
 learning model for BTC, and RL_NLP_ETH.py for model of Ethereum.  
 
-Random Forest and Boosting:
+Random Forest and Boosting:  
 Run BTC_RF_Boosting.ipynb and import data from BTC_total.csv to get model results for Bitcoin.
 Run ETH_RF_Boosting.ipynb and import data from ETH_total.csv to get model results for Ethereum.
