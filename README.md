@@ -2,7 +2,7 @@
 
 package requirement:
 
-PushshiftAPI/n
+PushshiftAPI  
 sentence_transformers
 gym
 stable_baselines3
