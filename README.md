@@ -13,7 +13,7 @@ Running Instructions:
 
 Data Prepration:  
 Run essembled.py in Vectorization folder, change the name of the asset and the time. All the data downloaded is saved in the folder. The code will auto download posts and embede 
-them into vectors using SBERT  
+them into vectors using SBERT. We didn't download any of the posts or comments into string and save in our computer. We thought I will be too big. Instead everyday we save them in memory and perform the embedding. We just saved all the vectors instead.  
 
 For model evaluation, run model_eval.py in Vectorization folder to test the cosine similarities among different strings, sentences used in evaluation is included in the excel file in the same folder.  
 
